@@ -32,9 +32,8 @@
 
 
 springBoot WebSite which I made it with a video.<br>
-
-Used Library : h2 database , jpa , mustache, lombok, springWeb<br>
-I used mvc pattern with business logic, repository, dto<br>
-I managed entity with jpa for database and made dto for object. <br>
-I used aop, annotation, SLF4J(Simple Logging Facade for Java) for logging. <br>
-I made a rest api for board and comment crud.<br>
+1. Used Library : h2 database , jpa , mustache, lombok, springWeb<br>
+2. entity with jpa for database and made dto for object. <br> 
+3. mvc pattern with a business logic, repository, dto
+4. Di, aop, annotation, SLF4J(Simple Logging Facade for Java) for logging. <br>
+5. made a rest api for board and comment crud.<br>
