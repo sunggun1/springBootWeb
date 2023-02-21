@@ -1,10 +1,3 @@
-springBoot WebSite which I made it with a video.
-Used Library : h2 database , jpa , mustache, lombok, springWeb
-I used mvc pattern with business logic, repository, dto
-I managed entity with jpa for database and made dto for object. 
-I used aop, annotation, SLF4J(Simple Logging Facade for Java) for logging. 
-I made a rest api for board and comment crud.
-
 강의를 참고하여 만든 springBoot 사이트입니다!!
 
 해당 강의에서 사용한 라이브러리 : h2 database(h2-console gui로 보여주게 하는 것), jpa(database Entity에 따라서 알아서 데이터베이스 생성시켜주는 도구) , mustache(view를 더 잘 쓸수 있게 하는 것 => 라라벨로 치면 blade Template 비슷), lombok(getter, setter, constructor를 코드 대신에 알아서 넣어주는 기능 => 쓰면 코드가 깔끔해짐), springWeb
@@ -31,3 +24,11 @@ I made a rest api for board and comment crud.
 11. TDD도 Junit을 사용해서 쉽게 가능함.
 12. objectMapper 는 json -> string 형태, string -> json 형태로 만들어서 test 할 때 보기 더 편하라고 사용하는 것임.
 
+
+springBoot WebSite which I made it with a video.<br>
+
+Used Library : h2 database , jpa , mustache, lombok, springWeb<br>
+I used mvc pattern with business logic, repository, dto<br>
+I managed entity with jpa for database and made dto for object. <br>
+I used aop, annotation, SLF4J(Simple Logging Facade for Java) for logging. <br>
+I made a rest api for board and comment crud.<br>
