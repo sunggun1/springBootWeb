@@ -31,7 +31,7 @@
 <br>
 
 
-springBoot WebSite which I made it with a video.<br>
+springBoot Website which I made it with a video.<br>
 1. Used Library : h2 database , jpa , mustache, lombok, springWeb<br>
 2. entity with jpa for database and made dto for object. <br> 
 3. mvc pattern with a business logic, repository, dto
